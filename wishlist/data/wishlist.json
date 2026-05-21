@@ -1,0 +1,26 @@
+{
+  "categories": [
+    {
+      "id": "25cee1e7-b1b9-48bb-b2ec-571bd96b34fe",
+      "name": "books",
+      "createdAt": "2026-05-21T10:11:38.881Z",
+      "items": [
+        {
+          "id": "6c0747e4-a4d8-421c-b438-34ea1ee8c821",
+          "title": "Monitor",
+          "url": "https://www.amazon.de/ASUS-Eye-Care-VY249HGR-AdaptiveSync/dp/B0DN6NHW6F/ref=sr_1_3?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=384ZB5PZ69F6S&dib=eyJ2IjoiMSJ9.nkcSGYqZPeuDxexKV-bZjewTGIKBg-kRrrj_VEn-LfxDfUBj-vB0nSEiftiaBZ0gCXDKO2o6NOnbLBj8of4YplmIpP3IGVBSi59ey9XxvKsmuXQyBOGscVpginnlWtBNrtli9dpQvOms0V9BiLj9vGaXlWZQJ4MCMX12gdOZDEotQTvd7f8FhR3DiEsHhNSgmMg5AQnAH02p6pbi8HvDMFObJ19wb_Ei0JtruDi8Mqo.-R9SIwrSkbnHb_2UPNzoh4mot3SpzWoTUETjMbTb8Ng&dib_tag=se&keywords=monitor&qid=1779358315&sprefix=monito%2Caps%2C173&sr=8-3&th=1",
+          "notes": "test",
+          "preview": {
+            "title": null,
+            "description": null,
+            "image": null,
+            "siteName": null,
+            "url": "https://www.amazon.de/ASUS-Eye-Care-VY249HGR-AdaptiveSync/dp/B0DN6NHW6F/ref=sr_1_3?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=384ZB5PZ69F6S&dib=eyJ2IjoiMSJ9.nkcSGYqZPeuDxexKV-bZjewTGIKBg-kRrrj_VEn-LfxDfUBj-vB0nSEiftiaBZ0gCXDKO2o6NOnbLBj8of4YplmIpP3IGVBSi59ey9XxvKsmuXQyBOGscVpginnlWtBNrtli9dpQvOms0V9BiLj9vGaXlWZQJ4MCMX12gdOZDEotQTvd7f8FhR3DiEsHhNSgmMg5AQnAH02p6pbi8HvDMFObJ19wb_Ei0JtruDi8Mqo.-R9SIwrSkbnHb_2UPNzoh4mot3SpzWoTUETjMbTb8Ng&dib_tag=se&keywords=monitor&qid=1779358315&sprefix=monito%2Caps%2C173&sr=8-3&th=1"
+          },
+          "createdAt": "2026-05-21T10:12:14.058Z"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-05-21T10:12:55.364Z"
+}
